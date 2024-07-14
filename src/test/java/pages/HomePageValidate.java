@@ -36,4 +36,7 @@ public class HomePageValidate {
     public void validateComments(String comments){
         Assert.assertEquals(textComments.getText(),comments);
     }
+    public void closeBrowser(){
+        this.driver.quit();
+    }
 }

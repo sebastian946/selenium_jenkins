@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d2b24a8-57de-46ed-86ea-13e35d26b8a0" name="Changes" comment="This is a automation project with selenium, POM, page factory and cucumber." />
+    <list default="true" id="3d2b24a8-57de-46ed-86ea-13e35d26b8a0" name="Changes" comment="This is a automation project with selenium, POM, page factory and cucumber.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePageValidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePageValidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HomeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,17 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Cucumber Java.Scenario: This is the success test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.testRunner.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Portfolio/Selenium projects/Selenium_Jenkins/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Scenario: This is the success test.executor": "Run",
+    "Maven.Selenium_Jenkins [clean].executor": "Run",
+    "Maven.Selenium_Jenkins [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.testRunner.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Portfolio/selenium_jenkins",
+    "onboarding.tips.debug.path": "D:/Portfolio/Selenium projects/Selenium_Jenkins/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Portfolio\Selenium projects\Selenium_Jenkins\src\test\java\file" />
@@ -108,13 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1720928528708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is a automation project with selenium, POM, page factory and cucumber.">
+      <option name="closed" value="true" />
+      <created>1720928822133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720928822133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is a automation project with selenium, POM, page factory and cucumber.2">
+      <option name="closed" value="true" />
+      <created>1720929130695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720929130695</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="This is a automation project with selenium, POM, page factory and cucumber." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a automation project with selenium, POM, page factory and cucumber." />
+    <MESSAGE value="This is a automation project with selenium, POM, page factory and cucumber.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a automation project with selenium, POM, page factory and cucumber.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -28,6 +28,6 @@ public class HomeSteps extends BaseTest {
         homeValidate.validateUsername(username);
         homeValidate.validatePassword(password);
         homeValidate.validateComments(comments);
-        tearDown();
+        homeValidate.closeBrowser();
     }
 }
