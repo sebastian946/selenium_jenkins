@@ -13,7 +13,7 @@ public class BaseTest {
     }
 
     @AfterClass
-    public void tearDown(){
+    public static void tearDown(){
         WebDriverManage.quitDriver();
     }
 }
